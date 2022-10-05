@@ -1,0 +1,20 @@
+{
+    "name": "conix.arena.unity.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.EditorCoroutines.Editor",
+        "Siccity.GLTFUtility.Editor",
+        "PrettyHierarchy"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
